@@ -1,15 +1,18 @@
 {
   "schema_version": "1.0.0",
   "id": "kashimo-meme-pack",
-  "name": "鹿紫云一表情包（来源索引）",
+  "name": "鹿紫云一表情包",
   "version": "1.0.0",
-  "description": "鹿紫云一相关表情包的分类与来源索引；图片需由使用者确认授权后添加。",
+  "description": "鹿紫云一图片资源包，来源为用户提供的 Bilibili 页面收藏。",
   "license": "SEE SOURCES.md",
+  "source": "https://www.bilibili.com/opus/1191770136648876037",
   "categories": {
+    "kashimo": "鹿紫云一表情包",
     "challenge": "挑衅、发起对决",
     "strong-opponent": "遇到强者、有意思",
     "rule-added": "规则追加、宣布信息",
     "disdain": "无语、嫌弃、嘲讽",
     "victory": "胜利、认可、战斗结束"
-  }
+  },
+  "images_path": "memes/kashimo/"
 }
